@@ -48,7 +48,7 @@
 ![cumulative](cumulative.png)
 
 4. Ending cumulative returns, histogram of the results with a 90% confidence interval as vertical lines on the histogram.
-![distribution](distribution.png)
+![distribution](Distribution.png)
 
 ## Retirement Analysis
 
