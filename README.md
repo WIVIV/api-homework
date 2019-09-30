@@ -13,7 +13,7 @@
 | Transfer       | 20537.34 |
 | Travel         |    35.19 |
 
-![pie_chart](Images\pie_chart.png)
+![pie_chart](..\pie_chart.png)
 
 ### Spending Per Month
 | Category   |   Amount |
