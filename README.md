@@ -13,7 +13,7 @@
 | Transfer       | 20537.34 |
 | Travel         |    35.19 |
 
-![PIE](Images\pie_chart.png)
+![pie_chart](Images\pie_chart.png)
 
 ### Spending Per Month
 | Category   |   Amount |
@@ -43,17 +43,17 @@
     | 2018-10-03 00:00:00 |    0.000549 |   -0.004746 |
 
 2. Monte Carlo Simulation of 500 runs and 30 years for the 60/40 portfolio and plot the results.
-![simulan](Images\500_Simulations.png)
+![500_Simulations](Images\500_Simulations.png)
 
 3. Ending cumulative returns from the 500 Monte Carlo simulation runs. 
-![simulan](Images\cumulative.png)
+![cumulative](Images\cumulative.png)
 
 4. Ending cumulative returns, histogram of the results with a 90% confidence interval as vertical lines on the histogram.
-![simulan](Images\distribution.png)
+![distribution](Images\distribution.png)
 
 ## Retirement Analysis
 
-1. Expected cumulative returns at 20 years for the 10th, 50th, and 90th percentiles:
+1. Expected cumulative returns at 30 years for the 10th, 50th, and 90th percentiles:
 
 
     | Percentile | Expected Cumulative Returns  | 
@@ -62,7 +62,7 @@
     | 50% |    3.514154|
     | 90% |    6.404143|  
 
-2. An initial investment of $50,000 results in the following expected returns in dollars at the 10th, 50th, and 90th percentiles:
+2. An initial investment of $50,000 results in the following expected returns in dollars at 30 years for the 10th, 50th, and 90th percentiles:
 
     | Percentile | Expected Cumulative Returns  | 
     |:--------------------|------------:
@@ -70,13 +70,13 @@
     | 50% |      $17,5707.69|
     | 90% |      $32,0207.13|  
 
-3. A 4% withdrawl rate on a $50,000 initial investment yeilds $3,052, which is less than Plaid Projected yearly income of $6,085.
+3. After 30 years a 4% withdrawl rate on a $50,000 initial investment yeilds $3,052, which is less than Plaid projected yearly income of $6,085.
 
-4. A 50% increase in the initial investment yeilds a 4% retirement withdrawal of $4578.
+4. A 50% increase in the initial investment after 30 years yeilds a 4% retirement withdrawal of $4,578.
 
-5. Plot of cumulative returns at the 5%, 50%, and 95% quartiles over the life of the investment.
+5. Plot of cumulative returns at the 5%, 50%, and 95% quartiles over the 30 year life (x axis is in days) of the investment.
 
-![simulan](Images\optional.png)
+![optional](Images\optional.png)
 
 ## Optional Challenge — Early Retirement
 Adjusting the portfolio to  retire in 5 years instead of 30, would require an inital investment of $165,475.
