@@ -13,7 +13,7 @@
 | Transfer       | 20537.34 |
 | Travel         |    35.19 |
 
-![PIE](\images\pie_chart.png)
+![PIE](Images\pie_chart.png)
 
 ### Spending Per Month
 | Category   |   Amount |
@@ -23,7 +23,7 @@
 | Jun        |   500.00 |
 | Sep        | 10645.24 |
 
-![expenses](\images\expenses.png)
+![expenses](Images\expenses.png)
 
 ### Income Data From the Sandbox 
 1. Previous year's gross income was $7285
@@ -43,13 +43,13 @@
     | 2018-10-03 00:00:00 |    0.000549 |   -0.004746 |
 
 2. Monte Carlo Simulation of 500 runs and 30 years for the 60/40 portfolio and plot the results.
-![simulan](\images\500_Simulations.png)
+![simulan](Images\500_Simulations.png)
 
 3. Ending cumulative returns from the 500 Monte Carlo simulation runs. 
-![simulan](\images\cumulative.png)
+![simulan](Images\cumulative.png)
 
 4. Ending cumulative returns, histogram of the results with a 90% confidence interval as vertical lines on the histogram.
-![simulan](\images\distribution.png)
+![simulan](Images\distribution.png)
 
 ## Retirement Analysis
 
@@ -76,7 +76,7 @@
 
 5. Plot of cumulative returns at the 5%, 50%, and 95% quartiles over the life of the investment.
 
-![simulan](\images\optional.png)
+![simulan](Images\optional.png)
 
 ## Optional Challenge — Early Retirement
 Adjusting the portfolio to  retire in 5 years instead of 30, would require an inital investment of $165,475.
