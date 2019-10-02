@@ -13,13 +13,14 @@
 | Transfer       | 20537.34 |
 | Travel         |    35.19 |
 
-![pie_chart](pie_chart.png)
+![pie_chart](Images/pie_chart.png)
 
 ### Spending Per Month
 | Category   |   Amount |
 |:-----------|---------:|
 | Aug        | 10645.24 |
 | Jul        | 10645.24 |
+| Jun        |   500.00 |
 | Sep        | 10645.24 |
 
 ![expenses](expenses.png)
@@ -48,7 +49,7 @@
 ![cumulative](cumulative.png)
 
 4. Ending cumulative returns, histogram of the results with a 90% confidence interval as vertical lines on the histogram.
-![distribution](Distribution.png)
+![distribution](distribution.png)
 
 ## Retirement Analysis
 
